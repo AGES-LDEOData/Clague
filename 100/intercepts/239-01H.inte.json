@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 8.267573696577795,
+        "error": 2.2427701191518294,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -18,7 +18,7 @@
         "value": 346.6445449078275
     },
     "Ar37": {
-        "error": 1.4634046410212644e-05,
+        "error": 3.969822733444948e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -36,7 +36,7 @@
         "value": 0.0010385008288927053
     },
     "Ar38": {
-        "error": 8.214606826177613e-06,
+        "error": 2.22840163347535e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -54,7 +54,7 @@
         "value": 3.096704706040113e-06
     },
     "Ar39": {
-        "error": 8.322954707932521e-06,
+        "error": 2.2577934962626013e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -72,7 +72,7 @@
         "value": 0.00017676817769085205
     },
     "Ar40": {
-        "error": 2.6973065267823837e-05,
+        "error": 7.317066291123336e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
